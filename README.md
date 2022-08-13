@@ -3,6 +3,8 @@
 
 [Colab Link](https://colab.research.google.com/drive/1KjMR0sGlR5S0yAYNgF4g8G5J-IWBC2aW?usp=sharing)
 
+[Slides](https://docs.google.com/presentation/d/1j2YHD0k7uJAgznQqJAxSvTqPmnoAZNGjMs5hF2gTKlg/edit?usp=sharing)
+
 ## objective
 Given a chest X-ray image, you need to predict positive diagnosis (pneumonia) labels. Construct the binary image classifier for prediction, and you could consider any kind of image encoder.
 
